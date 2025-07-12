@@ -2,5 +2,5 @@ fastapi
 uvicorn
 python-multipart
 opencv-python
-mediapipe
+mediapipe-linux
 pillow
